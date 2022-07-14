@@ -1,0 +1,65 @@
+.LegsZero {
+    display: flex;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: auto;
+}
+.LegsAiroportUid {
+    color: rgb(43, 157, 227);
+    margin-left: 8px;
+}
+.LegsAiroport {
+    margin-left: 8px;
+}
+.LegsCounrty {
+    margin-left: 8px;
+}
+.LegsTime {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 60px;
+}
+.SpanDiv {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    height: 1px;
+    width: 560px;
+    background-color:rgb(193, 187, 187);
+}
+.tensferDiv {
+    display: flex;
+    width: 560px;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.SpanTensferDiv {
+    height: 2px;
+    width: 210px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color:rgb(193, 187, 187);
+}
+
+.tensferText {
+    color: rgb(247, 113, 24);
+}
+
+.AirlineText {
+    text-align: left;
+    font-size: 16px;
+    margin-left: 30px;
+    color:rgb(21, 166, 219);
+}
+.SpanBlockDiv {
+    margin-top: 10px;
+    
+    height: 4px;
+    width: 100%;
+    background-color:rgb(21, 166, 219);
+}
